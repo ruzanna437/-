@@ -9,8 +9,17 @@
     h1{
         color: red;
     }
+    h1{
+    text-align: center
+}
+
+img{
+    margin-left: 320px;
+
+}
     </style>
   <body>
     <h1>Мир пончиков</h1>
+    <img src = "/uploads/2023/02/donut.png"/>
   </body>
 </html>
